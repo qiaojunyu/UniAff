@@ -10,7 +10,7 @@ conda create -n uniaff python=3.9 -y
 ``````shell
 pip install -r requirements.txt
 ``````
-## anno urdf
+## Annotation URDF
 https://huggingface.co/datasets/qiaojunyu/uniaff
 
 ## render finetune data of tools
